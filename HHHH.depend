@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1714402084 source:c:\users\utilisateur\desktop\projet de c++\hhhh\automat.cpp
+	"automat.h"
+
+1714402078 c:\users\utilisateur\desktop\projet de c++\hhhh\automat.h
+	"coinSlot.h"
+	"Keypad.h"
+	"DropCheck.h"
+	"slot.h"
+
+1714399018 c:\users\utilisateur\desktop\projet de c++\hhhh\slot.h
+	<iostream>
+	<string>
+
+1714325517 source:c:\users\utilisateur\desktop\projet de c++\hhhh\motor.cpp
+	"motor.h"
+	<iostream>
+
+1714325516 c:\users\utilisateur\desktop\projet de c++\hhhh\motor.h
+
+1714755121 source:c:\users\utilisateur\desktop\projet de c++\hhhh\main.cpp
+	<iostream>
+	<iomanip>
+	"automat.h"
+	"CoinSlot.h"
+
+1714397010 source:c:\users\utilisateur\desktop\projet de c++\hhhh\slot.cpp
+	"slot.h"
+	"motor.h"
+
+1714393794 c:\users\utilisateur\desktop\projet de c++\hhhh\coinslot.h
+	<iostream>
+
+1714393980 c:\users\utilisateur\desktop\projet de c++\hhhh\keypad.h
+
+1714393794 c:\users\utilisateur\desktop\projet de c++\hhhh\dropcheck.h
+	<cstdlib>
+	<ctime>
+
+1714754976 source:c:\users\utilisateur\desktop\projet de c++\hhhh\coinslot.cpp
+	"CoinSlot.h"
+
+1714393794 source:c:\users\utilisateur\desktop\projet de c++\hhhh\dropcheck.cpp
+	"dropCheck.h"
+
+1714393980 source:c:\users\utilisateur\desktop\projet de c++\hhhh\keypad.cpp
+	"Keypad.h"
+	<iostream>
+
+1714397941 source:c:\users\utilisateur\desktop\projet de c++\hhhh\wideslot.cpp
+	"WideSlot.h"
+
+1714397986 c:\users\utilisateur\desktop\projet de c++\hhhh\wideslot.h
+	"Slot.h"
+
+1714398739 source:c:\users\utilisateur\desktop\projet de c++\hhhh\smallslot.cpp
+	"SmallSlot.h"
+	<iostream>
+
+1714398739 c:\users\utilisateur\desktop\projet de c++\hhhh\smallslot.h
+	"slot.h"
+	<string>
+
+1714909401 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\automat.cpp
+	"automat.h"
+
+1714402078 c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\automat.h
+	"coinSlot.h"
+	"Keypad.h"
+	"DropCheck.h"
+	"slot.h"
+
+1714909401 c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\coinslot.h
+	<iostream>
+
+1714393980 c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\keypad.h
+
+1714910657 c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\dropcheck.h
+	<cstdlib>
+	<ctime>
+
+1714909401 c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\slot.h
+	<iostream>
+	<string>
+
+1714757574 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\coinslot.cpp
+	"CoinSlot.h"
+
+1714910397 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\dropcheck.cpp
+	"dropCheck.h"
+
+1714909694 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\keypad.cpp
+	"Keypad.h"
+	<iostream>
+
+1714910420 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\main.cpp
+	<iostream>
+	<iomanip>
+	"automat.h"
+	"CoinSlot.h"
+
+1714325517 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\motor.cpp
+	"motor.h"
+	<iostream>
+
+1714325516 c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\motor.h
+
+1714909401 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\slot.cpp
+	"slot.h"
+	"motor.h"
+
+1714398739 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\smallslot.cpp
+	"SmallSlot.h"
+	<iostream>
+
+1714398739 c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\smallslot.h
+	"slot.h"
+	<string>
+
+1714909430 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\wideslot.cpp
+	"WideSlot.h"
+
+1714397986 c:\users\utilisateur\desktop\projet de c++\projet de c++\hhhh\wideslot.h
+	"Slot.h"
+
+1714909401 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\code\automat.cpp
+	"automat.h"
+
+1714402078 c:\users\utilisateur\desktop\projet de c++\projet de c++\code\automat.h
+	"coinSlot.h"
+	"Keypad.h"
+	"DropCheck.h"
+	"slot.h"
+
+1714910854 c:\users\utilisateur\desktop\projet de c++\projet de c++\code\coinslot.h
+	<iostream>
+
+1714393980 c:\users\utilisateur\desktop\projet de c++\projet de c++\code\keypad.h
+
+1714910957 c:\users\utilisateur\desktop\projet de c++\projet de c++\code\dropcheck.h
+	<cstdlib>
+
+1714909401 c:\users\utilisateur\desktop\projet de c++\projet de c++\code\slot.h
+	<iostream>
+	<string>
+
+1714757574 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\code\coinslot.cpp
+	"CoinSlot.h"
+
+1714910651 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\code\dropcheck.cpp
+	"dropCheck.h"
+
+1714909694 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\code\keypad.cpp
+	"Keypad.h"
+	<iostream>
+
+1714910910 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\code\main.cpp
+	<iostream>
+	<iomanip>
+	"automat.h"
+	"CoinSlot.h"
+
+1714325517 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\code\motor.cpp
+	"motor.h"
+	<iostream>
+
+1714325516 c:\users\utilisateur\desktop\projet de c++\projet de c++\code\motor.h
+
+1714909401 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\code\slot.cpp
+	"slot.h"
+	"motor.h"
+
+1714398739 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\code\smallslot.cpp
+	"SmallSlot.h"
+	<iostream>
+
+1714398739 c:\users\utilisateur\desktop\projet de c++\projet de c++\code\smallslot.h
+	"slot.h"
+	<string>
+
+1714909430 source:c:\users\utilisateur\desktop\projet de c++\projet de c++\code\wideslot.cpp
+	"WideSlot.h"
+
+1714397986 c:\users\utilisateur\desktop\projet de c++\projet de c++\code\wideslot.h
+	"Slot.h"
+
